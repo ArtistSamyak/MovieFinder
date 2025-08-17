@@ -74,7 +74,7 @@ The codebase is divided into three layers: **Presentation**, **Domain**, and **D
 ### 6.2 Installation & Running the App
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MovieFinder.git
+   git clone https://github.com/ArtistSamyak/MovieFinder.git
    cd MovieFinder
 2. Open APIEndpoints.swift:
    ```bash
